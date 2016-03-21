@@ -1,0 +1,51 @@
+										/* général */
+
+body
+{
+	background-color: rgba(47,42,64,1);
+	color: rgb(127,126,134);
+}
+
+										/* menu à droite */
+.qui
+{
+	color: rgb(182,12,173);
+	border: 1px solid rgb(88,54,59)
+}
+
+.dr_menu li
+{
+	position: absolu;
+    /*float: right;*/
+}
+
+										/* Section */
+section
+{
+	margin-left: 2em;
+	margin-right: 15em;
+	padding-left: 1em;
+	padding-right: 1em;
+	font-family: Kalinga, "Trebuchet MS", Verdana, Calibri;
+	text-align: justify;	
+}
+
+										/* footer */
+										
+footer {
+	top: 80%;
+	background-color: rgba(47,42,64,1);
+	border: 1px rgb(255,115,97) solid;
+	border-radius: 50px;
+	margin: 10px;
+	color: #FFF2F2;
+}
+
+footer p
+{
+	color: rgb(127,126,134);
+	font-size: small;
+	font-family: Kalinga, "Trebuchet MS", Verdana, Calibri;
+	text-align: center;
+	text-decoration: none;
+}
